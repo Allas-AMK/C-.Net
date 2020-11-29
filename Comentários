@@ -1,0 +1,2 @@
+/*Crie um arquivo em C#, logo em seguida, entre com o comando no terminal -> dotnet new console . Assim criará um arquivo dotnet com o código padrão.*/
+/*Para compilar o programa em C# com DotNet, usamos o CSC que seria o comando padrão ou run. Ex: CSC Aula01.cs ou apenas run no terminal.*/
